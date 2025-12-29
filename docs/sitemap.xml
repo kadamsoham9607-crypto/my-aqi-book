@@ -19,4 +19,22 @@
   <url>
     <loc>http://localhost:3000/results</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/aqi-analysis-78f39a9497fd3a16ec4eae7d03c3ac52</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/conclusion-b335a694772d9fa5e21ce154ac58b74a</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/index-3669ecd719210f6c8a49b8247498ee24</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/intro-084f4110a14dce8993ea2792a3a49c11</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/methodology-d12094dec9d0b6a0316a53f9cb19761e</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/results-1243505f8c05c0b0b8f45e6931cda245</loc>
+  </url>
 </urlset>
