@@ -1,0 +1,10 @@
+format: jb-book
+root: index
+
+chapters:
+  - file: intro
+  - file: methodology
+    sections:
+      - file: aqi_analysis
+      - file: results
+  - file: conclusion

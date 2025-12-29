@@ -1,0 +1,11 @@
+version: 1
+
+project:
+  title: Real-Time Air Quality Index Project
+  authors:
+    - name: Soham Kadam
+
+site:
+  template: book-theme
+  options:
+    use_relative_urls: true
